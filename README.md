@@ -1,2 +1,3 @@
-# katara
-Katara: Open Source Sous Vide Cooker
+# Katara: Open Source Sous Vide Cooker
+
+Placeholder for now
